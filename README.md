@@ -1,3 +1,14 @@
+## What the app looks like
+![1](https://user-images.githubusercontent.com/71210936/189484595-969062e5-315d-45ea-a86f-96ef43aea43e.JPG)
+## Register User
+![2](https://user-images.githubusercontent.com/71210936/189484603-c58999a2-6f0a-444b-986c-641cdfdea69f.JPG)
+## Edit User
+![3](https://user-images.githubusercontent.com/71210936/189484615-b5eea834-6ded-4932-834d-0747ed741a49.JPG)
+## User Details
+![4](https://user-images.githubusercontent.com/71210936/189484633-0f3e8888-2b48-4889-97da-07ad3e5097f0.JPG)
+## Database
+![5](https://user-images.githubusercontent.com/71210936/189484642-134e3a5f-7bd9-4991-9254-80337d217be8.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
